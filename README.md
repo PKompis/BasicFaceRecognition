@@ -12,11 +12,9 @@ Make sure to check [this](https://github.com/ageitgey/face_recognition/tree/mast
 5. Press q to quit from the application.
 
 
-##Example
+## Example
 
-![alt text](Example.png "Example")   
-
-https://github.com/PKompis/BasicFaceRecognition/blob/main/Example.png
+![alt text](Example.png "Example")
 
 ## Libaries used
 
