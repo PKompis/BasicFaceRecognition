@@ -1,8 +1,8 @@
 # BasicFaceRecognition
 
-Basic Face Recognition Application that is using a webcam.   
+Basic Face Recognition Application that is using a camera.   
 
-Make sure to check [this](https://github.com/ageitgey/face_recognition/tree/master/examples) for mor examples.
+Make sure to check [this](https://github.com/ageitgey/face_recognition/tree/master/examples) for more examples.
 
 ## Steps
 1. Install the latest Python3.
