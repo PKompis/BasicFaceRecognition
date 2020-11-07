@@ -5,11 +5,18 @@ Basic Face Recognition Application that is using a webcam.
 Make sure to check [this](https://github.com/ageitgey/face_recognition/tree/master/examples) for mor examples.
 
 ## Steps
-- Install the latest Python3.
-- Pip install the necessary libraries.
-- Place any image (preferably .png) inside Persons folder with the name of the person, the name of the file will be used for the identification.
-- Have an available camera and simple execute the .py file.
-- Press q to quit from the application.
+1. Install the latest Python3.
+2. Pip install the necessary libraries.
+3. Place any image (preferably .png) inside Persons folder with the name of the person, the name of the file will be used for the identification.
+4. Have an available camera and simple execute the .py file.
+5. Press q to quit from the application.
+
+
+##Example
+
+![alt text](Example.png "Example")   
+
+https://github.com/PKompis/BasicFaceRecognition/blob/main/Example.png
 
 ## Libaries used
 
