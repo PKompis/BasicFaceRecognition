@@ -14,7 +14,7 @@ Make sure to check [this](https://github.com/ageitgey/face_recognition/tree/mast
 
 ## Example
 
-![alt text](Example.png "Example")
+![alt text](ExecutionExample.png "Example")
 
 ## Libaries used
 
